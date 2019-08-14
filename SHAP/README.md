@@ -9,9 +9,7 @@ Python implementation of the SHAP(SHapley Additive exPlanations) that is a unifi
 Wine Quality Dataset [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/wine+quality)
 
 ## Reference Code 
-Based on code by [Scott Lundberg](https://github.com/slundberg/shap)
-
-Based on code by [Christophe Rigon](https://www.kaggle.com/datacog314/tutorial-machine-learning-interpretability)
+Based on code by [Scott Lundberg](https://github.com/slundberg/shap) and [Christophe Rigon](https://www.kaggle.com/datacog314/tutorial-machine-learning-interpretability)
 
 ## Reference Paper 
 **"A Unified Approach to Interpreting Model Predictions"**. Scott Lundberg, Su-In Lee (https://arxiv.org/abs/1705.07874)
