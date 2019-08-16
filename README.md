@@ -12,7 +12,7 @@
 + 14:00 ~ 15:00 : [설명가능인공지능(Explainable Artificial Intelligence, XAI)이란?](https://github.com/OpenXAIProject/PyConKorea2019-Tutorials/blob/master/PyConKorea2019-Introduction-presentation.pdf)
 + 15:00 ~ 15:20 : [실습 환경 세팅](https://github.com/OpenXAIProject/PyConKorea2019-Tutorials/blob/master/colab_setting.ipynb) 
 + 15:20 ~ 15:40 : 쉬는 시간
-+ 15:40 ~ 16:30 : [레이어 단위 관련성 전파 모델 (LRP) 튜토리얼](https://github.com/OpenXAIProject/PyConKorea2019-Tutorials/blob/master/LRP/README.md)
++ 15:40 ~ 16:30 : [레이어 단위 관련성 전파 모델 (LRP) 튜토리얼](https://github.com/OpenXAIProject/PyConKorea2019-Tutorials/blob/master/LRP/PyConKorea2019-LRP-tutorial-presentation.pdf)
 + 16:30 ~ 16:50 : 쉬는 시간
 + 16:50 ~ 17:40 : [모델 불가지론적 방법 모델 (SHAP) 튜토리얼](https://github.com/OpenXAIProject/PyConKorea2019-Tutorials/blob/master/SHAP/PyConKorea2019-SHAP-tutorial-presentation.pdf)
 + 17:40 ~ 18:00 : QnA
