@@ -1,15 +1,12 @@
 
 # 딥러닝 안에서 일어나는 과정을 설명하는 인공지능 기술(PyCon Korea 2019 Tutorial)
 
-## 소개
+## Introduction
 설명가능인공지능 연구센터는 과학기술정보통신부에서 설립한 연구센터로, 인공지능 모델의 결정을 인간이 이해하고 해석할 수 있는 수준의 설명을 제공하는 설명가능 인공지능(XAI: Explainable Artificial Intelligence) 기술을 연구합니다. 본 센터는 2017년 9월 개소하여, 주관기관인 UNIST를 비롯해 KAIST, 고려대학교, 서울대학교, 연세대학교와 AITRICS 소속 200여명의 연구원들이 세계적 수준의 연구를 진행하고 있으며, 미국 DARPA, 독일 베를린 빅데이터 센터등 해외 기관과 활발하게 교류하고 있습니다. 
 
-본 센터는 인공지능 시스템의 의사결정 이유 설명 및 인터페이스 개발, 금융/의료/경제 분석 등 실세계 응용에 대해 연구를 진행하고 있으며, 주요한 결과물을 오픈소스로 홈페이지(http://xai.unist.ac.kr)를 통하여 공개하고 있습니다. 
+본 센터는 인공지능 시스템의 의사결정 이유 설명 및 인터페이스 개발, 금융/의료/경제 분석 등 실세계 응용에 대해 연구를 진행하고 있으며, 주요한 결과물을 오픈소스로 홈페이지(http://xai.unist.ac.kr)를  통하여 공개하고 있습니다. 
 
 이번 파이콘 한국 2019에서 인공지능에 관심이 있는 참가자분들이 파이썬을 이용하여 설명가능인공지능을 직접 구현하면서 배울 수 있는 튜토리얼을 진행합니다. 파이썬 사용자분들의 많은 관심과 적극적인 참여 부탁드립니다.
-
-NLP 논문을 구현할 때, 항상 수반하는 전처리(Vocabulary, Tokenizer, Embedding, etc)등의 개념을 소개하고, 이를 효율적으로 처리하는 코드와 논문 구현을 위한 project template 구성 방법을 소개합니다. 소개한 내용을 토대로 PyTorch와 NSMC (Naver sentiment movie corpus) 데이터셋을 이용 분류 문제와 관련된 아래의 논문을 구현하며, 논문 구현 방법론을 체득합니다.
-
 
 ## Contents
 + 14:00 ~ 15:00 : [설명가능인공지능(Explainable Artificial Intelligence, XAI)이란?](https://github.com/OpenXAIProject/PyConKorea2019-Tutorials/blob/master/PyConKorea2019-Introduction-presentation.pdf)
@@ -38,6 +35,7 @@ NLP 논문을 구현할 때, 항상 수반하는 전처리(Vocabulary, Tokenizer
 + [XAI 센터 공식홈페이지](http://xai.unist.ac.kr/)
 + [XAI 센터 깃허브](https://github.com/openxaiProject)
 + [XAI 센터 Youtube 채널](https://www.youtube.com/channel/UCGxsfIsOry_LdBaPSet2p7g]
+
 
 # XAI Project 
 
