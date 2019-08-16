@@ -23,7 +23,7 @@
 실습에서 사용될 소스 코드와 발표자료는 모두 XAI Github를 통해 공개할 예정입니다. 발표전까지 메일과 본 페이지에 공지 드리겠습니다. (Google과 Github에 미리 가입해주세요.)
 
 ## Reference
-+LRP: 
++ LRP: 
 1. **"Explaining nonlinear classification decisions with deep taylor decomposition"**. Gregoire Montavon, Sebastian Bach, Alexander Binder, Wojciech Samek, and Klaus-Robert Muller (https://arxiv.org/abs/1512.02479)
 2. Based on code by [Leila Arras](https://github.com/ArrasL/LRP_for_LSTM), [Cyc1am3n](https://cyc1am3n.github.io/2018/11/10/classifying_korean_movie_review.html) and [albermax](https://github.com/albermax/innvestigate)
 
