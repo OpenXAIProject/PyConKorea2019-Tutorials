@@ -4,10 +4,10 @@ LRP-Time-Series
 Python implementation of the LRP method that is a novel methodology for interpreting generic multilayer neural networks by decomposing the network classification decision into contributions of its input elements.
 
 ## Dataset & Preprocessing 
-Korean Movie Review Dataset [NSMC Dataset](https://cyc1am3n.github.io/2018/11/10/classifying_korean_movie_review.html)
+Korean Movie Review Dataset [NSMC Dataset](https://github.com/e9t/nsmc/)
 
 ## Reference Code 
-Based on code by [Leila Arras](https://github.com/ArrasL/LRP_for_LSTM)
+Based on code by [Leila Arras](https://github.com/ArrasL/LRP_for_LSTM), [Cyc1am3n](https://cyc1am3n.github.io/2018/11/10/classifying_korean_movie_review.html) and [albermax](https://github.com/albermax/innvestigate)
 
 ## Reference Paper 
 **"Explaining nonlinear classification decisions with deep taylor decomposition"**. Gregoire Montavon, Sebastian Bach, Alexander Binder, Wojciech Samek, and Klaus-Robert Muller (https://arxiv.org/abs/1512.02479)
@@ -17,6 +17,8 @@ Based on code by [Leila Arras](https://github.com/ArrasL/LRP_for_LSTM)
 + numpy (1.15.0)
 + matplotlib (2.2.2)
 + scikit-learn (0.19.1)
++ keras (2.2.4)
++ innvestigate (1.0.8)
 
 ## License
 [Apache License 2.0](https://github.com/OpenXAIProject/tutorials/blob/master/LICENSE "Apache")
