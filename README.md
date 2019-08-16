@@ -34,8 +34,8 @@
 ## Futher Information
 + [XAI 센터 공식홈페이지](http://xai.unist.ac.kr/)
 + [XAI 센터 깃허브](https://github.com/openxaiProject)
-+ [XAI 센터 Youtube 채널](https://www.youtube.com/channel/UCGxsfIsOry_LdBaPSet2p7g]
-
++ [XAI 센터 Youtube 채널](https://www.youtube.com/channel/UCGxsfIsOry_LdBaPSet2p7g)
++ [Start Mooc XAI강의](https://unist.edwith.org/2019090-aip2-advanced)
 
 # XAI Project 
 
