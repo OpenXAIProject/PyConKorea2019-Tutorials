@@ -37,6 +37,11 @@
 + [XAI 센터 Youtube 채널](https://www.youtube.com/channel/UCGxsfIsOry_LdBaPSet2p7g)
 + [Start Mooc XAI강의](https://unist.edwith.org/2019090-aip2-advanced)
 
+## 발표자료
++ [Part 1](https://www.slideshare.net/OpenXAI/2019-part-1)
++ [Part 2](https://www.slideshare.net/OpenXAI/2019-lrp-part-2)
++ [Part 3](https://www.slideshare.net/OpenXAI/2019-shap-part-3)
+
 # XAI Project 
 
 **This work was supported by Institute for Information & Communications Technology Promotion (IITP) grant funded by the Korea government (MSIT) (No.2017-0-01779, A machine learning and statistical inference framework for explainable artificial intelligence)**
